@@ -1,4 +1,70 @@
+👋 Olá, eu sou o Cassio Betti
 
+💻 Desenvolvedor Fullstack com experiência em backend e frontend, focado em boas práticas, evolução contínua e trabalho em equipe.
+
+🧑‍💻 Experiência Profissional
+Desenvolvedor Fullstack
+
+📅 fev/2024 – atualmente
+
+Desenvolvimento de novas funcionalidades em sistemas internos e externos
+
+Correção de bugs e melhorias de performance
+
+Atuação no backend com Java e frontend com Angular
+
+Aplicação de boas práticas de desenvolvimento e versionamento de código
+
+Estagiário em Desenvolvimento de Software
+
+📅 fev/2023 – fev/2024
+
+Criação e manutenção de relatórios utilizando PL/SQL
+
+Correção de erros em relatórios
+
+Suporte técnico a usuários internos e externos
+
+🚀 Competências Técnicas
+🔤 Linguagens
+
+Java
+
+PL/SQL
+
+HTML5
+
+CSS3
+
+🧩 Frameworks
+
+Angular
+
+Spring
+
+🛠️ Ferramentas
+
+Git
+
+Controle de versão
+
+Suporte técnico
+
+📌 Práticas
+
+Boas práticas de codificação
+
+Depuração de código
+
+Desenvolvimento Fullstack
+
+📚 Informações Adicionais
+
+Interesse constante em aprendizado e evolução profissional
+
+Facilidade para trabalhar em equipe
+
+Experiência com metodologias ágeis (Scrum)
 
 <div align="center">
   <a href="https://github.com/cassiobetti">
